@@ -6,28 +6,7 @@ BACKEND DEVELOPER | NODE JS | TYPESCRIPT
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abhishek-singh-rajpurohit) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 # 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white) ![Apollo](https://img.shields.io/badge/apollo%20client-311C87?style=for-the-badge&logo=apollo%20client&logoColor=white)
-
-## 🚀 Featured Projects:
-
-### 📱 [Express GraphQL Social App](https://github.com/abhii47/express-graphql-social-app)
-A full-featured social media application built with Express, GraphQL, and TypeScript. Similar to Instagram with modern backend architecture.
-
-**Stack & Features:**
-- **Backend:** Express.js 4.x + Apollo Server + GraphQL
-- **Database:** MySQL with Sequelize ORM
-- **Authentication:** JWT tokens with bcryptjs password hashing
-- **Real-time:** GraphQL Subscriptions with WebSocket (graphql-ws)
-- **Security:** CORS enabled, secure authentication
-- **Language:** 100% TypeScript
-
-**Key Capabilities:**
-- User authentication and authorization
-- Social posts and interactions
-- Real-time updates via GraphQL subscriptions
-- Scalable GraphQL API design
-
----
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=abhii47&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
