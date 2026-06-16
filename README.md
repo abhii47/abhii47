@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:B76E79,50:800020,100:2B1B17&text=Abhi%20Rajpurohit&fontColor=212121&fontSize=48&fontAlignY=38&desc=Node.js%20Developer%20%7C%20Aspiring%20Full-Stack%20Engineer%20%7C%20React%20Enthusiast&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:B76E79,50:800020,100:2B1B17&text=Abhi%20Rajpurohit&fontColor=212121&fontSize=48&fontAlignY=38&desc=Node.js%20Developer%20%7C%20Full%20Stack%20Capable%20%7C%20React%20Enthusiast&descAlignY=58&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=B76E79&center=true&vCenter=true&width=900&lines=Node.Js+Backend+Developer;Aspiring+Full+%26+Stack+Developer;React+Learner;Building+Scalable+Web+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=B76E79&center=true&vCenter=true&width=900&lines=Node.Js+Backend+Developer;Full+%26+Stack+Capable;React+Learner;Building+Scalable+Web+Apis" alt="Typing SVG" />
 
-<br />
+</div>
 
 ## 💫 About Me:
-Backend Developer with internship experience developing secure REST APIs, real-time applications, and database-driven systems using Node.js, TypeScript, Express.js, and MySQL
+**Backend Developer** with internship experience developing secure **REST APIs**, real-time applications, and database-driven systems using **Node.js, TypeScript, Express.js, and MySQL**. Learning React fundamentals and 
+capable of Full-Stack development.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abhishek-singh-rajpurohit) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekrajpurohit2805@gmail.com)
@@ -55,26 +56,39 @@ Backend Developer with internship experience developing secure REST APIs, real-t
 <img src="https://img.shields.io/badge/BullMQ-FF0000?style=for-the-badge"/>
 </div>
 
-</div>
+<div align="left">
 
+## Featured Projects
 
+<strong>🛒 Mini Multi-Vendor Marketplace API</strong>  
 
-
-## 🚀 Featured Projects
-### 🛒 Mini Multi-Vendor Marketplace API
-
-**Node.js • Express.js • TypeScript • Sequelize • MySQL**
-
-* Developed a scalable RESTful backend API for a multi-vendor marketplace supporting **Admin, Vendor, and Customer** roles.
+* Developed a scalable RESTful backend API for a multi-vendor marketplace supporting Admin, Vendor, and Customer roles.
 * Implemented **JWT Authentication, Refresh Tokens, OTP Email Verification, and bcrypt password hashing** for secure user management.
-* Built core e-commerce modules including **Products, Categories, Cart, Orders, Coupons, and Inventory Management**.
+* Built core e-commerce modules including Products, Categories, Cart, Orders, Coupons, and Inventory Management.
 * Integrated **Stripe Payment Gateway** for secure payments, refunds, and order processing.
 * Designed optimized database relationships, pagination, filtering, validations, and transaction-based operations using Sequelize ORM.
 * Followed a clean architecture with controllers, services, middleware, and utility layers for maintainability and scalability.
+  [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/abhii47/MultiVendor.git)
 
-### 💬 SpyChat – Real-Time Chat & Group Messaging System
 
-**Node.js • Express.js • TypeScript • Socket.IO • MySQL**
+
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multer-FFB13B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/BullMQ-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+
+<p>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+
+<strong>💬 SpyChat – Real-Time Chat & Group Messaging System</strong>  
 
 * Developed a real-time chat backend supporting **one-to-one messaging, group chats, and live notifications**.
 * Implemented **JWT Authentication, Refresh Tokens, Protected APIs, and Secure Password Hashing**.
@@ -82,7 +96,22 @@ Backend Developer with internship experience developing secure REST APIs, real-t
 * Designed relational database models for users, conversations, groups, messages, and read-status tracking.
 * Integrated **Cloudinary and Multer** for secure media uploads including profile images, group avatars, and chat attachments.
 * Applied security best practices using **Helmet, CORS, Rate Limiting, and Zod Validation** while maintaining a clean service-based architecture.
+  [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/abhii47/SpyChat.git)
+  
 
+
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multer-FFB13B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=abhii47&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
