@@ -74,7 +74,6 @@ capable of Full-Stack development.
 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
@@ -86,7 +85,7 @@ capable of Full-Stack development.
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
 
-<p>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<hr color="brown"/>
 
 <strong>💬 SpyChat – Real-Time Chat & Group Messaging System</strong>  
 
@@ -95,19 +94,22 @@ capable of Full-Stack development.
 * Built conversation management, group management, unread message tracking, and real-time communication using **Socket.IO**.
 * Designed relational database models for users, conversations, groups, messages, and read-status tracking.
 * Integrated **Cloudinary and Multer** for secure media uploads including profile images, group avatars, and chat attachments.
-* Applied security best practices using **Helmet, CORS, Rate Limiting, and Zod Validation** while maintaining a clean service-based architecture.
+* Applied security best practices using **Helmet, CORS, Rate Limiting, and Zod** while maintaining a clean service-based architecture.
   [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/abhii47/SpyChat.git)
   
 
 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multer-FFB13B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+<img src="https://img.shields.io/badge/Multer-FFB13B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 
@@ -130,4 +132,4 @@ capable of Full-Stack development.
 ---
 [![](https://komarev.com/ghpvc/?username=abhii47&icon=7&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:B76E79,50:800020,100:2B1B17" width="100%" />
